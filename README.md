@@ -1,4 +1,4 @@
-# ** Customer Segmentation Analysis for Axis Retail Solutions**
+#  Customer Segmentation Analysis for Axis Retail Solutions
 
 ## **Overview** 
 Understanding customer behavior is essential for any successful strategy in today's competitive e-commerce landscape. This project focuses on **customer segmentation** for **Axis Retail Solutions**, an e-commerce company that sells high-quality retail products across the globe. The company has been accumulating data regarding the demographic segments of its customers, their buying behavior, geographical trends, and response to various marketing campaigns. However, this data had yet to be leveraged to drive strategic decisions.
@@ -42,6 +42,7 @@ The original dataset had 28 columns, which were:
 - **K-Means** was applied to create three clusters based on customer spending, purchasing, and engagement patterns. Added two new columns: Cluster and Category of Cluster.
 
 The enriched dataset, stored in the customer_personality_cluster_output table, was used to create the dashboard, linking customer traits to actionable insights.
+
 ![image](https://github.com/user-attachments/assets/57da53e2-cf14-4d5d-99e2-74c3d13b813c)
 
 
@@ -52,8 +53,9 @@ Axis Retail Solutions' customer segmentation analysis uncovered three distinct c
 - **Cluster 1**: Price-sensitive customers contributing minimal revenue despite accounting for a significant portion of the customer base.
 - **Cluster 2**: Moderately engaged customers with average purchasing power and steady interaction levels.
 - **Cluster 3**: High-value customers demonstrating strong brand loyalty, consistent engagement, and significant contributions to overall revenue.
-- 
+  
   Below is an overview page from the Power BI dashboard, with additional examples provided throughout the report.
+  
 ![image](https://github.com/user-attachments/assets/7dd91e3f-f913-4d1e-ab98-3a525de11a12)
 
 The interactive Power BI dashboard can be accessed here : [here](https://github.com/Catherinedataa/customer-segmentation-analysis/blob/master/customer-segmentation.pbix) 
@@ -74,6 +76,7 @@ Analysis of demographic characteristics revealed distinct trends across the clus
 This geographic segmentation emphasizes the need for region-specific strategies to fortify dominant markets and capitalize upon emerging opportunities.
 
 ![image](https://github.com/user-attachments/assets/22a0470e-6297-472a-a2cf-0a2344b79d57)
+
 ![image](https://github.com/user-attachments/assets/622af40a-37f9-4850-a608-8994137a7b12)
 
 
@@ -87,6 +90,7 @@ The purchasing behaviors show the following trends:
 **Conversion Rates**: Cluster 3 has the highest conversion efficiency, while Cluster 1 has the lowest engagement and conversion success.
 
 ![image](https://github.com/user-attachments/assets/c8b1b6e5-0e0f-45b2-b94a-2f5cbfc1a0f2)
+
 ![image](https://github.com/user-attachments/assets/d0fd7ee0-ce6b-4e56-9d92-28472be6f3d2)
 
 
