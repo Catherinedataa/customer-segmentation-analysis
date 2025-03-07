@@ -1,7 +1,7 @@
 #  Customer Segmentation Analysis for Axis Retail Solutions
 
 ## **Overview** 
-Understanding customer behavior is essential for any successful strategy in today's competitive e-commerce landscape. This project focuses on **customer segmentation** for **Axis Retail Solutions**, an e-commerce company that sells high-quality retail products across the globe. The company has been accumulating data regarding the demographic segments of its customers, their buying behavior, geographical trends, and response to various marketing campaigns. However, this data had yet to be leveraged to drive strategic decisions.
+Understanding customer behavior is essential for any successful strategy in today's competitive e-commerce landscape. This project focuses on customer segmentation for Axis Retail Solutions, an e-commerce company that sells high-quality retail products across the globe. The company has been accumulating data regarding the demographic segments of its customers, their buying behavior, geographical trends, and response to various marketing campaigns. However, this data had yet to be leveraged to drive strategic decisions.
 It identifies actionable insights in the following ways: customer profile and behavior, purchase pattern, effectiveness of marketing campaigns, amongst others. With segmentations through clusters, Axis Retail Solutions would seek to create targeted marketing activities towards engagement levels and revenue growth. 
 
 ## **Insights and recommendations are structured around these key focus areas:**
